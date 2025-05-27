@@ -1,1 +1,1 @@
-Tai yra mano bakalauro baigiamojo projekto įterptinės sistemos algoritmas.
+Čia pateikiamas jutiklių modulio įterptinės sistemos algoritmas.
